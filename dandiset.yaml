@@ -31,7 +31,7 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin; Yeh, Kelly (2025) Neural
+citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; Yeh, Kelly; He, Bin (2025) Neural
   Spiking Data in the Rat Somatosensory Cortex Using a Flexible Electrode Responding
   to Transcranial Focused Ultrasound (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001363/draft
 contributor:
@@ -49,13 +49,24 @@ contributor:
   name: Yu, Kai
   schemaKey: Person
 - includeInCitation: true
-  name: He, Bin
+  name: Yeh, Kelly
   schemaKey: Person
 - includeInCitation: true
-  name: Yeh, Kelly
+  name: He, Bin
   schemaKey: Person
 - includeInCitation: false
   name: Carnegie Mellon University
+  schemaKey: Organization
+- includeInCitation: false
+  name: RF1NS131069
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- identifier: ''
+  includeInCitation: false
+  name: R01 NS124564
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-03-19T04:58:45.735385+00:00'
 description: 'In this study, we investigate the neuronal response to transcranial
