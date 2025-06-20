@@ -62,9 +62,7 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-- identifier: ''
-  includeInCitation: false
-  name: R01 NS124564
+- name: R01NS124564
   roleName:
   - dcite:Funder
   schemaKey: Organization
@@ -86,19 +84,16 @@ description: 'In this study, we investigate the neuronal response to transcrania
 ethicsApproval: []
 id: DANDI:001363/draft
 identifier: DANDI:001363
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001363/versions/draft/assets/
 name: Neural Spiking Data in the Rat Somatosensory Cortex Using a Flexible Electrode
   Responding to Transcranial Focused Ultrasound
-protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001363/draft
 version: draft
 wasGeneratedBy: []
